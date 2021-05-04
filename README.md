@@ -14,11 +14,11 @@ The intended use of this application is to be able to create your own study guid
 
 ## Features
 * Deck Screen to view all of the deck in the database.
-  * New decks can be created
+  * Can create new decks
 * View Deck Screen
-  * Deck name and description can be edited
-  * Cards front and back sides can be edited
-  * New cards can be added
+  * Can edit deck name and description
+  * Can edit cards front and back sides
+  * Can add new cards
 * Study Page
   * all of the cards from the current deck are displayed one at a time.
 
@@ -27,11 +27,12 @@ The intended use of this application is to be able to create your own study guid
 * React
 * React Hooks
 * JavaScript
+* Forms
 * Bootstrap
 * NodeJs
 
 ## Discoveries
-Flash-Card O-Matic is the second application I coded in react. It was a bit easier to manage react state the second time but React Router definately made this project challening. 
+Flash-Card O-Matic is the second application I coded in React. It was a bit easier to manage React State the second time around but React Router made this project challenging.
 
 ## Future goals for this project
-I intened on adding the ability to filter key words from being added to the cards to make it child friendly.
+I intend on adding the ability to filter keywords from being added to the cards to make it child-friendly.
